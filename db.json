@@ -1,0 +1,101 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Jordan 4",
+      "image": "/images/1.jpg",
+      "tags": "92 ",
+      "price": "59440",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "ONEDAYS SNAP",
+      "price": "53800",
+      "tags": "25 Colors",
+      "image": "/images/2.jpg",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "name": "John Dillinger 0.2",
+      "price": "48900",
+      "tags": "16 Color, y",
+      "image": "/images/3.jpg",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "John Foamposite One",
+      "price": "73148",
+      "tags": "84 Colors",
+      "image": "/images/4.jpg",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "Dillinger Harden Vol.3",
+      "price": "46900",
+      "tags": "34 Colors",
+      "image": "/images/5.jpg",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "name": "ONEDAYS Zoom 1",
+      "image": "/images/6.jpg",
+      "tags": "26 Colors",
+      "price": "80391",
+      "status": "available"
+    },
+    {
+      "id": 7,
+      "name": "Hyperdunk One",
+      "image": "/images/7.jpg",
+      "tags": "",
+      "price": "54600",
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "KD 12",
+      "image": "/images/8.jpg",
+      "tags": "",
+      "price": "81800",
+      "status": "available"
+    },
+    {
+      "name": "D.O.N. Issue",
+      "price": "38800",
+      "status": "available",
+      "tags": "",
+      "image": "/images/9.jpg",
+      "id": 9
+    },
+    {
+      "name": "Dillinger Flytrap",
+      "price": "48900",
+      "status": "available",
+      "tags": "",
+      "image": "/images/10.jpg",
+      "id": 10
+    },
+    {
+      "name": "Kyrie Flytrap",
+      "price": "34400",
+      "status": "available",
+      "tags": "",
+      "image": "/images/11.jpg",
+      "id": 11
+    },
+    {
+      "name": "Air Flytrap 3",
+      "price": "44900",
+      "status": "available",
+      "tags": "",
+      "image": "/images/12.jpg",
+      "id": 12
+    }
+  ],
+  "carts": []
+}
